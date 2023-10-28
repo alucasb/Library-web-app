@@ -1,2 +1,2 @@
 # Library-web-app
- Library web app made in laravel using docker
+ A CRUD Library web app made in laravel to store your books information 
